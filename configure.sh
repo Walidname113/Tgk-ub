@@ -64,5 +64,5 @@ echo -e "${GREEN}Успешно установленны библиотеки.${
 echo -e "${YELLOW}Попытка воиспроизвести програму...${NC}"
 clear
 cd
-cd tgk-ub
+cd Tgk-ub
 python3 TGKUB.py
